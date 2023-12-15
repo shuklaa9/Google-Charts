@@ -1,0 +1,128 @@
+Entity,Year,Fixed broadband subscriptions (per 100 people)
+Argentina,2001,0.252175
+Argentina,2002,0.392763
+Argentina,2003,0.67961
+Argentina,2004,1.41037
+Argentina,2005,2.38275
+Argentina,2006,4.03084
+Argentina,2007,6.55171
+Argentina,2008,7.77128
+Argentina,2009,8.67289
+Argentina,2010,9.85002
+Argentina,2011,11.0648
+Argentina,2012,12.3304
+Argentina,2013,14.8142
+Argentina,2014,15.2904
+Argentina,2015,15.9159
+Argentina,2016,16.6673
+Argentina,2017,17.85
+Argentina,2018,19.1015
+Argentina,2019,19.6361
+China,2000,0.00175584
+China,2001,0.025885
+China,2002,0.252303
+China,2003,0.85296
+China,2004,1.88496
+China,2005,2.80663
+China,2006,3.79951
+China,2007,4.9342
+China,2008,6.123
+China,2009,7.63887
+China,2010,9.22969
+China,2011,11.3685
+China,2012,12.6558
+China,2013,13.5722
+China,2014,14.3258
+China,2015,19.6927
+China,2016,22.8137
+China,2017,27.7399
+China,2018,28.5352
+China,2019,31.3352
+Germany,2000,0.325549
+Germany,2001,2.57815
+Germany,2002,3.93082
+Germany,2003,5.47698
+Germany,2004,8.57355
+Germany,2005,13.2187
+Germany,2006,18.3832
+Germany,2007,24.3011
+Germany,2008,28.0145
+Germany,2009,30.8586
+Germany,2010,32.3678
+Germany,2011,33.7108
+Germany,2012,34.5261
+Germany,2013,35.2845
+Germany,2014,36.3078
+Germany,2015,37.5454
+Germany,2016,38.7644
+Germany,2017,40.2177
+Germany,2018,41.1129
+Germany,2019,41.9933
+India,2001,0.00465116
+India,2002,0.00753752
+India,2003,0.0126279
+India,2004,0.0208034
+India,2005,0.117462
+India,2006,0.197343
+India,2007,0.264535
+India,2008,0.439755
+India,2009,0.63608
+India,2010,0.890397
+India,2011,1.06785
+India,2012,1.18363
+India,2013,1.16546
+India,2014,1.21565
+India,2015,1.29319
+India,2016,1.40831
+India,2017,1.33386
+India,2018,1.3433
+India,2019,1.40195
+Nigeria,2005,0.000360062
+Nigeria,2007,0.0366229
+Nigeria,2008,0.0451029
+Nigeria,2009,0.0531074
+Nigeria,2010,0.0625274
+Nigeria,2012,0.0085386
+Nigeria,2013,0.00875902
+Nigeria,2014,0.00892265
+Nigeria,2015,0.00866083
+Nigeria,2016,0.0580398
+Nigeria,2017,0.0580668
+Nigeria,2018,0.0377614
+Nigeria,2019,0.0414801
+United States,1998,0.256527
+United States,1999,0.988801
+United States,2000,2.50962
+United States,2001,4.49489
+United States,2002,6.92063
+United States,2003,9.5731
+United States,2004,12.7764
+United States,2005,17.3415
+United States,2006,20.2304
+United States,2007,23.853
+United States,2008,25.4147
+United States,2009,26.1149
+United States,2010,27.3524
+United States,2011,28.3445
+United States,2012,29.4589
+United States,2013,30.3514
+United States,2014,30.6929
+United States,2015,31.8538
+United States,2016,32.7272
+United States,2017,33.2836
+United States,2018,33.8937
+United States,2019,34.7223
+Yemen,2005,0.00744999
+Yemen,2006,0.0134428
+Yemen,2007,0.0516856
+Yemen,2008,0.118764
+Yemen,2009,0.239825
+Yemen,2010,0.362775
+Yemen,2011,0.457837
+Yemen,2012,0.683606
+Yemen,2013,1.02119
+Yemen,2014,1.31663
+Yemen,2015,1.49068
+Yemen,2016,1.0167
+Yemen,2017,1.32569
+Yemen,2018,1.35561

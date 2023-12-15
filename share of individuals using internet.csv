@@ -1,0 +1,201 @@
+Entity,Individuals using the Internet (% of population),Year
+Argentina,0,1990
+Argentina,0,1991
+Argentina,0.00299287,1992
+Argentina,0.0295271,1993
+Argentina,0.043706,1994
+Argentina,0.0862771,1995
+Argentina,0.141955,1996
+Argentina,0.28034,1997
+Argentina,0.830767,1998
+Argentina,3.28448,1999
+Argentina,7.03868,2000
+Argentina,9.78081,2001
+Argentina,10.8821,2002
+Argentina,11.9137,2003
+Argentina,16.0367,2004
+Argentina,17.7206,2005
+Argentina,20.9272,2006
+Argentina,25.9466,2007
+Argentina,28.1126,2008
+Argentina,34,2009
+Argentina,45,2010
+Argentina,51,2011
+Argentina,55.8,2012
+Argentina,59.9,2013
+Argentina,64.7,2014
+Argentina,68.0431,2015
+Argentina,70.969,2016
+Argentina,74.2949,2017
+China,0,1990
+China,0,1991
+China,0,1992
+China,0.00016868,1993
+China,0.00116811,1994
+China,0.00495471,1995
+China,0.0130817,1996
+China,0.0323949,1997
+China,0.16854,1998
+China,0.708188,1999
+China,1.77591,2000
+China,2.63965,2001
+China,4.5957,2002
+China,6.2,2003
+China,7.3,2004
+China,8.52326,2005
+China,10.5232,2006
+China,16,2007
+China,22.6,2008
+China,28.9,2009
+China,34.3,2010
+China,38.3,2011
+China,42.3001,2012
+China,45.8,2013
+China,47.9,2014
+China,50.3,2015
+China,53.2,2016
+China,54.3,2017
+Germany,0.125892,1990
+Germany,0.250274,1991
+Germany,0.435285,1992
+Germany,0.463635,1993
+Germany,0.922541,1994
+Germany,1.83774,1995
+Germany,3.05481,1996
+Germany,6.71109,1997
+Germany,9.87785,1998
+Germany,20.846,1999
+Germany,30.2163,2000
+Germany,31.6509,2001
+Germany,48.82,2002
+Germany,55.9,2003
+Germany,64.73,2004
+Germany,68.71,2005
+Germany,72.16,2006
+Germany,75.16,2007
+Germany,78,2008
+Germany,79,2009
+Germany,82,2010
+Germany,81.27,2011
+Germany,82.35,2012
+Germany,84.17,2013
+Germany,86.19,2014
+Germany,87.5898,2015
+Germany,84.1652,2016
+Germany,84.3942,2017
+Germany,87.0371,2018
+Germany,88.1345,2019
+India,0,1990
+India,0,1991
+India,0.000111308,1992
+India,0.000218176,1993
+India,0.00106956,1994
+India,0.0262289,1995
+India,0.046334,1996
+India,0.0707678,1997
+India,0.139027,1998
+India,0.273224,1999
+India,0.527532,2000
+India,0.660146,2001
+India,1.53788,2002
+India,1.68649,2003
+India,1.97614,2004
+India,2.38808,2005
+India,2.8055,2006
+India,3.95,2007
+India,4.38,2008
+India,5.12,2009
+India,7.5,2010
+India,10.07,2011
+India,12.5801,2012
+India,15.1,2013
+India,21,2014
+India,17,2015
+India,22,2016
+India,32,2017
+India,20.0813,2018
+Nigeria,0,1990
+Nigeria,0,1991
+Nigeria,0,1992
+Nigeria,0,1993
+Nigeria,0,1994
+Nigeria,0,1995
+Nigeria,0.00883298,1996
+Nigeria,0.0172374,1997
+Nigeria,0.0252315,1998
+Nigeria,0.0410387,1999
+Nigeria,0.0640808,2000
+Nigeria,0.0899014,2001
+Nigeria,0.320462,2002
+Nigeria,0.558576,2003
+Nigeria,1.28614,2004
+Nigeria,3.54916,2005
+Nigeria,5.54504,2006
+Nigeria,6.77,2007
+Nigeria,8,2008
+Nigeria,9.3,2009
+Nigeria,11.5,2010
+Nigeria,13.8,2011
+Nigeria,16.1,2012
+Nigeria,19.1,2013
+Nigeria,21,2014
+Nigeria,36,2015
+Nigeria,25.67,2016
+Nigeria,7.46944,2017
+United States,0.784729,1990
+United States,1.16319,1991
+United States,1.7242,1992
+United States,2.27167,1993
+United States,4.86278,1994
+United States,9.23709,1995
+United States,16.4194,1996
+United States,21.6164,1997
+United States,30.0932,1998
+United States,35.8487,1999
+United States,43.0792,2000
+United States,49.0808,2001
+United States,58.7854,2002
+United States,61.6971,2003
+United States,64.7583,2004
+United States,67.9681,2005
+United States,68.9312,2006
+United States,75,2007
+United States,74,2008
+United States,71,2009
+United States,71.69,2010
+United States,69.7295,2011
+United States,74.7,2012
+United States,71.4,2013
+United States,73,2014
+United States,74.5542,2015
+United States,85.5444,2016
+United States,87.2749,2017
+United States,88.4989,2018
+Yemen,0,1990
+Yemen,0,1991
+Yemen,0,1992
+Yemen,0,1993
+Yemen,0,1994
+Yemen,0,1995
+Yemen,0.000621081,1996
+Yemen,0.0150253,1997
+Yemen,0.0233232,1998
+Yemen,0.0566287,1999
+Yemen,0.0825004,2000
+Yemen,0.0908025,2001
+Yemen,0.518796,2002
+Yemen,0.604734,2003
+Yemen,0.881223,2004
+Yemen,1.0486,2005
+Yemen,1.24782,2006
+Yemen,5.01,2007
+Yemen,6.89,2008
+Yemen,9.96,2009
+Yemen,12.35,2010
+Yemen,14.905,2011
+Yemen,17.4465,2012
+Yemen,20,2013
+Yemen,22.55,2014
+Yemen,24.0854,2015
+Yemen,24.5792,2016
+Yemen,26.7184,2017

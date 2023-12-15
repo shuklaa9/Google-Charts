@@ -1,0 +1,333 @@
+Entity,Year,Mobile cellular subscriptions (per 100 people)
+Argentina,1960,0
+Argentina,1965,0
+Argentina,1970,0
+Argentina,1975,0
+Argentina,1976,0
+Argentina,1977,0
+Argentina,1978,0
+Argentina,1979,0
+Argentina,1980,0
+Argentina,1981,0
+Argentina,1982,0
+Argentina,1983,0
+Argentina,1984,0
+Argentina,1985,0
+Argentina,1986,0
+Argentina,1987,0
+Argentina,1988,0
+China,1960,0
+China,1965,0
+China,1970,0
+China,1975,0
+China,1976,0
+China,1977,0
+China,1978,0
+China,1979,0
+China,1980,0
+China,1981,0
+China,1982,0
+China,1983,0
+China,1984,0
+China,1985,0
+China,1986,0
+Germany,1960,0
+Germany,1965,0
+Germany,1970,0
+Germany,1975,0
+Germany,1976,0
+Germany,1977,0
+Germany,1978,0
+Germany,1979,0
+Germany,1980,0
+Germany,1981,0
+Germany,1982,0
+Germany,1983,0
+Germany,1984,0
+India,1960,0
+India,1965,0
+India,1970,0
+India,1975,0
+India,1976,0
+India,1977,0
+India,1978,0
+India,1979,0
+India,1980,0
+India,1981,0
+India,1982,0
+India,1983,0
+India,1984,0
+India,1985,0
+India,1986,0
+India,1987,0
+India,1988,0
+India,1989,0
+India,1990,0
+India,1991,0
+India,1992,0
+India,1993,0
+India,1994,0
+Nigeria,1960,0
+Nigeria,1965,0
+Nigeria,1970,0
+Nigeria,1975,0
+Nigeria,1976,0
+Nigeria,1977,0
+Nigeria,1978,0
+Nigeria,1979,0
+Nigeria,1980,0
+Nigeria,1981,0
+Nigeria,1982,0
+Nigeria,1983,0
+Nigeria,1984,0
+Nigeria,1985,0
+Nigeria,1986,0
+Nigeria,1987,0
+Nigeria,1988,0
+Nigeria,1989,0
+Nigeria,1990,0
+Nigeria,1991,0
+Nigeria,1992,0
+United States,1960,0
+United States,1965,0
+United States,1970,0
+United States,1975,0
+United States,1976,0
+United States,1977,0
+United States,1978,0
+United States,1979,0
+United States,1980,0
+Yemen,1960,0
+Yemen,1965,0
+Yemen,1970,0
+Yemen,1975,0
+Yemen,1976,0
+Yemen,1977,0
+Yemen,1978,0
+Yemen,1979,0
+Yemen,1980,0
+Yemen,1981,0
+Yemen,1982,0
+Yemen,1983,0
+Yemen,1984,0
+Yemen,1985,0
+Yemen,1986,0
+Yemen,1987,0
+Yemen,1988,0
+Yemen,1989,0
+Yemen,1990,0
+Yemen,1991,0
+China,1987,6.27e-05
+China,1988,0.000283636
+China,1989,0.000846457
+Germany,1985,0.00139011
+China,1990,0.00155657
+China,1991,0.00398559
+Argentina,1989,0.00715438
+India,1995,0.007955
+Nigeria,1993,0.00881104
+Yemen,1992,0.0119653
+Nigeria,1995,0.0120428
+Nigeria,1994,0.0121565
+Nigeria,1996,0.0126504
+Nigeria,1997,0.0132208
+China,1992,0.0146632
+Nigeria,1998,0.017194
+Nigeria,1999,0.0209626
+Nigeria,2000,0.0245331
+Germany,1986,0.0305888
+India,1996,0.0333854
+Argentina,1990,0.0367888
+Yemen,1993,0.0379197
+United States,1984,0.0384459
+China,1993,0.0523458
+Yemen,1995,0.0553197
+Yemen,1996,0.0569516
+Yemen,1994,0.0572893
+Germany,1987,0.0624836
+Argentina,1991,0.0755766
+Yemen,1997,0.0766478
+India,1997,0.0881046
+Yemen,1998,0.0981501
+India,1998,0.117255
+Germany,1988,0.126122
+China,1994,0.127478
+Argentina,1992,0.138953
+United States,1985,0.141461
+Yemen,1999,0.163565
+India,1999,0.181523
+Yemen,2000,0.184053
+Germany,1989,0.208007
+Nigeria,2001,0.212499
+United States,1986,0.28086
+China,1995,0.292444
+Argentina,1993,0.329702
+India,2000,0.338556
+Germany,1990,0.344839
+United States,1987,0.502282
+China,1996,0.547523
+India,2001,0.608372
+Germany,1991,0.669575
+Argentina,1994,0.701001
+Yemen,2001,0.825058
+United States,1988,0.83657
+China,1997,1.04858
+Argentina,1995,1.16399
+India,2002,1.18904
+Germany,1992,1.21542
+Nigeria,2002,1.22014
+United States,1989,1.40512
+China,1998,1.87605
+Argentina,1996,1.89245
+United States,1990,2.09545
+Germany,1993,2.20615
+Nigeria,2003,2.38776
+Yemen,2002,2.63866
+United States,1991,2.96895
+India,2003,3.03098
+Germany,1994,3.08105
+China,1999,3.3785
+Yemen,2003,3.55629
+United States,1992,4.29306
+Germany,1995,4.59091
+India,2004,4.62278
+Argentina,1997,5.63437
+United States,1993,6.16859
+China,2000,6.60648
+Nigeria,2004,6.75967
+Germany,1996,6.77785
+Argentina,1998,7.40601
+Yemen,2004,7.5537
+India,2005,7.85459
+United States,1994,9.20314
+Germany,1997,10.1672
+Argentina,1999,10.5543
+China,2001,11.1475
+Yemen,2005,11.327
+United States,1995,12.7414
+Nigeria,2005,13.3849
+India,2006,14.2473
+Yemen,2006,14.394
+China,2002,15.7574
+United States,1996,16.4134
+Germany,1998,17.0916
+Argentina,2002,17.4268
+Argentina,2000,17.5965
+Argentina,2001,18.0863
+India,2007,19.7446
+United States,1997,20.3568
+Yemen,2007,20.4346
+China,2003,20.524
+Argentina,2003,20.5898
+Nigeria,2006,22.6762
+United States,1998,25.151
+China,2004,25.3063
+Nigeria,2007,27.6039
+Germany,1999,28.807
+India,2008,28.8914
+Yemen,2008,29.4398
+China,2005,29.5621
+United States,1999,30.8912
+China,2006,34.4482
+Argentina,2004,35.1044
+Yemen,2009,36.9197
+United States,2000,38.8618
+China,2007,40.6618
+Nigeria,2008,41.917
+India,2009,43.1205
+United States,2001,45.1498
+China,2008,47.3744
+Yemen,2010,47.8733
+Nigeria,2009,48.2866
+Yemen,2011,49.0096
+United States,2002,49.3596
+Yemen,2018,53.6789
+China,2009,54.895
+Nigeria,2010,55.0764
+Yemen,2017,55.175
+United States,2003,55.4273
+Yemen,2015,56.6911
+Yemen,2012,56.7969
+Argentina,2005,56.9677
+Nigeria,2011,58.4548
+Germany,2000,59.2156
+Yemen,2016,60.4863
+India,2010,60.9415
+China,2010,62.7554
+United States,2004,63.2174
+Yemen,2014,66.2188
+Yemen,2013,66.9846
+Nigeria,2012,67.4392
+India,2012,68.3152
+Germany,2001,68.9052
+United States,2005,69.0524
+India,2013,69.197
+India,2011,71.4925
+China,2011,71.6495
+Germany,2002,72.5184
+India,2014,72.8626
+Nigeria,2013,74.0812
+Nigeria,2017,75.9248
+India,2015,76.4076
+United States,2006,77.1093
+Nigeria,2014,78.7735
+Germany,2003,79.3978
+Argentina,2006,80.1998
+China,2012,80.346
+United States,2007,82.9318
+Nigeria,2016,82.9974
+Nigeria,2015,83.2683
+India,2019,84.27
+India,2016,85.1487
+United States,2008,86.0995
+India,2018,86.9426
+India,2017,87.3177
+Germany,2004,87.3547
+Nigeria,2018,88.1842
+China,2013,88.3057
+United States,2009,89.545
+China,2015,91.8354
+Nigeria,2019,91.8536
+China,2014,91.8996
+United States,2010,92.2678
+United States,2011,95.449
+China,2016,96.5266
+United States,2012,97.0686
+Germany,2005,97.1426
+United States,2013,98.1977
+Argentina,2007,101.808
+China,2017,103.438
+Germany,2006,105.13
+Germany,2010,109.369
+United States,2014,111.556
+Germany,2011,112.423
+Germany,2012,114.113
+China,2018,115.526
+Argentina,2008,116.039
+Germany,2015,117.818
+Germany,2007,118.4
+United States,2015,119.144
+China,2019,121.792
+Germany,2014,122.197
+United States,2016,122.595
+United States,2017,123.045
+Germany,2013,123.233
+Argentina,2019,125.842
+Germany,2016,125.885
+Germany,2019,128.357
+United States,2018,129.014
+Germany,2018,129.324
+Argentina,2009,129.642
+Germany,2009,129.79
+Germany,2008,130.17
+Argentina,2018,132.093
+Germany,2017,132.715
+United States,2019,134.459
+Argentina,2010,139.58
+Argentina,2017,140.877
+Argentina,2015,143.567
+Argentina,2014,143.616
+Argentina,2016,146.454
+Argentina,2011,146.955
+Argentina,2012,154.059
+Argentina,2013,159.639
