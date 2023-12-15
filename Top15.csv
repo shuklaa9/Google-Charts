@@ -1,6 +1,4 @@
 Country,Code,Calling Code,Density(km2),Year,CO2 emission (Tons),Population(2022),Area,% of World
-string,string,string,string,continuous,continuous,continuous,continuous,0.00% 0.10% 0.20% 0.30% 0.40% 0.50% 0.60% 0.70% 0.80% 0.90% 1.00% 1.10% 1.20% 1.30% 1.40% 1.60% 1.80% 2.00% 5.20% 5.60% 6.10% 6.30% 11.00%
-meta,meta,meta,meta,,,,,
 Australia,AU,61,3/km²,1750,0,26177413,7692024,5.20%
 Australia,AU,61,3/km²,1751,0,26177413,7692024,5.20%
 Australia,AU,61,3/km²,1752,0,26177413,7692024,5.20%
